@@ -1,0 +1,11 @@
+C:\Users\Me\Projects2\NaiveBayes\RecommendationAlgorithm\RecommendationAlgorithm\bin\Debug\net9.0\RecommendationAlgorithm.deps.json
+C:\Users\Me\Projects2\NaiveBayes\RecommendationAlgorithm\RecommendationAlgorithm\bin\Debug\net9.0\RecommendationAlgorithm.dll
+C:\Users\Me\Projects2\NaiveBayes\RecommendationAlgorithm\RecommendationAlgorithm\bin\Debug\net9.0\RecommendationAlgorithm.pdb
+C:\Users\Me\Projects2\NaiveBayes\RecommendationAlgorithm\RecommendationAlgorithm\obj\Debug\net9.0\RecommendationAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Me\Projects2\NaiveBayes\RecommendationAlgorithm\RecommendationAlgorithm\obj\Debug\net9.0\RecommendationAlgorithm.AssemblyInfoInputs.cache
+C:\Users\Me\Projects2\NaiveBayes\RecommendationAlgorithm\RecommendationAlgorithm\obj\Debug\net9.0\RecommendationAlgorithm.AssemblyInfo.cs
+C:\Users\Me\Projects2\NaiveBayes\RecommendationAlgorithm\RecommendationAlgorithm\obj\Debug\net9.0\RecommendationAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\Me\Projects2\NaiveBayes\RecommendationAlgorithm\RecommendationAlgorithm\obj\Debug\net9.0\RecommendationAlgorithm.dll
+C:\Users\Me\Projects2\NaiveBayes\RecommendationAlgorithm\RecommendationAlgorithm\obj\Debug\net9.0\refint\RecommendationAlgorithm.dll
+C:\Users\Me\Projects2\NaiveBayes\RecommendationAlgorithm\RecommendationAlgorithm\obj\Debug\net9.0\RecommendationAlgorithm.pdb
+C:\Users\Me\Projects2\NaiveBayes\RecommendationAlgorithm\RecommendationAlgorithm\obj\Debug\net9.0\ref\RecommendationAlgorithm.dll
